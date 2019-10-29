@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bd3311a-8e65-4003-949d-00b3ec91ce60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PasswordService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gRPC-Password-service" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ie/gmit/ds/PasswordServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ie/gmit/ds/Passwords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/proto/inventory.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/HashInput$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/HashInput$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/HashInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/HashInputOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/HashOutput$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/HashOutput$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/HashOutput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/HashOutputOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/Inventory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceGrpc$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceGrpc$MethodHandlers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceGrpc$PasswordServiceBaseDescriptorSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceGrpc$PasswordServiceBlockingStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceGrpc$PasswordServiceFileDescriptorSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceGrpc$PasswordServiceFutureStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceGrpc$PasswordServiceImplBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceGrpc$PasswordServiceMethodDescriptorSupplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceGrpc$PasswordServiceStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceGrpc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/Passwords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/ValidateInput$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/ValidateInput$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/ValidateInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/ValidateInputOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/inventory.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/grpc-java/ie/gmit/ds/PasswordServiceGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/ie/gmit/ds/HashInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/ie/gmit/ds/HashInputOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/ie/gmit/ds/HashOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/ie/gmit/ds/HashOutputOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/ie/gmit/ds/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/ie/gmit/ds/ValidateInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/ie/gmit/ds/ValidateInputOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/password-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/annotations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/auth.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/backend.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/billing.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/config_change.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/consumer.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/control.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/distribution.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/documentation.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/endpoint.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/experimental/authorization_config.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/experimental/experimental.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/http.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/httpbody.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/label.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/log.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/logging.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/metric.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/monitored_resource.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/monitoring.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/quota.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/source_info.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/system_parameter.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/api/usage.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/cloud/audit/audit_log.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/logging/type/http_request.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/logging/type/log_severity.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/longrunning/operations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/rpc/code.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/rpc/error_details.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/rpc/status.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/type/color.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/type/date.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/type/dayofweek.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/type/latlng.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/type/money.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/type/postal_address.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/44961a5abee110365eda342a07bbd5f0/google/type/timeofday.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/995683cf1672d662a686f27b80e328f3/google/protobuf/any.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/995683cf1672d662a686f27b80e328f3/google/protobuf/api.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/995683cf1672d662a686f27b80e328f3/google/protobuf/compiler/plugin.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/995683cf1672d662a686f27b80e328f3/google/protobuf/descriptor.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/995683cf1672d662a686f27b80e328f3/google/protobuf/duration.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/995683cf1672d662a686f27b80e328f3/google/protobuf/empty.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/995683cf1672d662a686f27b80e328f3/google/protobuf/field_mask.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/995683cf1672d662a686f27b80e328f3/google/protobuf/source_context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/995683cf1672d662a686f27b80e328f3/google/protobuf/struct.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/995683cf1672d662a686f27b80e328f3/google/protobuf/timestamp.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/995683cf1672d662a686f27b80e328f3/google/protobuf/type.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-dependencies/995683cf1672d662a686f27b80e328f3/google/protobuf/wrappers.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-plugins/protoc-3.9.0-windows-x86_64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/protoc-plugins/protoc-gen-grpc-java-1.23.0-windows-x86_64.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/Data/Data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/ionic.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/icon/drawable-hdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/icon/drawable-ldpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/icon/drawable-mdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/icon/drawable-xhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/icon/drawable-xxhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/icon/drawable-xxxhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/splash/drawable-land-hdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/splash/drawable-land-ldpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/splash/drawable-land-mdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/splash/drawable-land-xhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/splash/drawable-land-xxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/splash/drawable-land-xxxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/splash/drawable-port-hdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/splash/drawable-port-ldpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/splash/drawable-port-mdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/splash/drawable-port-xhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/splash/drawable-port-xxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/android/splash/drawable-port-xxxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-50@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-small@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon-small@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/icon/icon@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default-568h@2x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default-667h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default-736h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default-Landscape-736h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default-Landscape@2x~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default-Landscape@~ipadpro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default-Landscape~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default-Portrait@2x~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default-Portrait@~ipadpro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default-Portrait~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default@2x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default@2x~universal~anyany.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/ios/splash/Default~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/resources/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/app/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/app/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/app/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/assets/icon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/assets/imgs/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/pages/home/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/pages/home/home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/pages/home/home.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/src/theme/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/FootballApp/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/MYSQLSchema/details.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FootballApp-master/PHP/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GoProj18-master/main.go" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SLMb6BSiZLQpxhUjZ9qTz6xjnM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bd3311a-8e65-4003-949d-00b3ec91ce60" name="Default Changelist" comment="" />
+      <created>1571338491270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571338491270</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
